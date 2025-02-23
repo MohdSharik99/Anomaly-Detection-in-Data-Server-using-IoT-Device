@@ -32,12 +32,12 @@ The solution is designed for applications in *Industrial IoT (IIoT), **energy ma
 ## System Design
 
 The following designed system tracks power and energy usage based on sensor readings, predictive analysis, and anomaly detection.
-**Data Collection:** Real-time data is collected by sensors and sent wirelessly to a database.
-**Data Processing:** Live and historical data are cleaned and preprocessed for uniformity.
-**Model Prediction:** Predictions are made on power and energy usage patterns by machine learning models.
-**Anomaly Detection:** The system detects unusual patterns and sends alerts for anomalies.
-**Dashboard Visualization:** Users track data, forecasts, and anomalies through an interactive dashboard.
-**System Feedback & Fixes:** Users take corrective measures based on insights to maintain optimal performance.
+- **Data Collection:** Real-time data is collected by sensors and sent wirelessly to a database.
+- **Data Processing:** Live and historical data are cleaned and preprocessed for uniformity.
+- **Model Prediction:** Predictions are made on power and energy usage patterns by machine learning models.
+- **Anomaly Detection:** The system detects unusual patterns and sends alerts for anomalies.
+- **Dashboard Visualization:** Users track data, forecasts, and anomalies through an interactive dashboard.
+- **System Feedback & Fixes:** Users take corrective measures based on insights to maintain optimal performance.
 
 Key Benefits:
 - Real-time monitoring for ongoing monitoring.
