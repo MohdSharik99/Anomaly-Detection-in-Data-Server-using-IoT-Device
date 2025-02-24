@@ -25,7 +25,7 @@ In modern data centers, monitoring energy and power consumption is crucial for m
 
 By utilizing real-time and historical sensor data, the system applies predictive models such as LSTM, Random Forest, XGBoost, and ARIMA to forecast energy consumption accurately. Additionally, anomaly detection models track these forecasts to identify deviations from normal patterns, enabling early warnings and proactive interventions.
 
-The solution is designed for applications in *Industrial IoT (IIoT), **energy management, and **environmental monitoring. It can be extended to **smart city projects* for energy optimization, predictive maintenance, and monitoring environmental conditions in urban infrastructure.
+The solution is designed for applications in Industrial IoT (IIoT), energy management, and environmental monitoring. It can be extended to **smart city projects* for energy optimization, predictive maintenance, and monitoring environmental conditions in urban infrastructure.
 
 ---
 
